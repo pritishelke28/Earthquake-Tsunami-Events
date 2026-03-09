@@ -1,1 +1,0 @@
-# Earthquake-Tsunami-Events
